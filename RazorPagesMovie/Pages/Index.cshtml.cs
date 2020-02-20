@@ -21,7 +21,5 @@ namespace RazorPagesMovie.Pages
         {
 
         }
-
-        public Array TestAttribute4 { get; set; }
     }
 }
